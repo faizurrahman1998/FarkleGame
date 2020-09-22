@@ -1,0 +1,61 @@
+
+						BEFORE WE START
+
+GAMEPLAY: 
+	
+	1. Minimum of 1 player is needed to start the game. A board of maximum 4 players can be created. 
+
+	2. A player rolls all 6 dices and the points are shown. Then the player is asked which dices to 
+	   bank and which dices to roll again.
+
+	3. Depending on the banked dices, player gets points as per the rules of the game.
+
+	4. After every turn, the player is asked to roll again or to bank the points. Its a must to have 
+	   a minimum score depending on the level selection of the game to bank the score. If the score 
+	   is enough then it is recorded and player's turn ends.
+
+	5. If in any turn, a player scores 0, then the player is Farkled and his turn ends.
+
+	6. Player needs to make a minimum score depending on the level selected, to win the game.
+
+	7. Level details: 
+		
+		Every level has a minimum score to update a player's score and to win the game. 
+
+			i. Rookie -   minimum score to update 200 & minimum score to win the game to 5000. 
+
+			ii. Roller - minimum score to update 350 and minimum score to win the game 8000. 
+		
+			iii. High Roller - minimum score to update 500 and minimum score to win the game 15000.
+
+-----------------------------------------------------------------------------------------------------------------
+
+
+						POINT TABLE
+
+	> a 1 scores 100
+
+	> a 5 scores 50
+
+	> a combination of three 1's scores 300
+
+	> a combination of three same number, scores (100 x the number). For example: three 5 will score 500.
+
+	> four of a kind scores 1000.
+
+	> five of a kind scores 2000.
+
+	> six of a kind scores 3000.
+
+	> 1-6 straight scores 1500.
+
+	> three pairs also score 1500.
+
+	> four of a kind and a pair also score 1500.
+
+	> two triplets is a gem, scoring 2500.
+
+
+NB: Combinations only count when made in a single turn.
+
+---------------------------------------------   Enjoy the game!!!   ---------------------------------------------
